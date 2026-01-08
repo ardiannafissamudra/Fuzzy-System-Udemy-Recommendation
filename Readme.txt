@@ -1,5 +1,5 @@
 # TUGAS BESAR FUZZY - PENENTUAN KURSUS UDEMY TERBAIK
-# Kelompok: [Nomor Kelompok]
+# Kelompok: Kelompok Ardian & Izzah
 
 ## Peran Anggota:
 1. Ardian Nafis Samudra (103132400012): Implementasi Kode & Data Preprocessing.
